@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/zgy_auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_beans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_trade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zgy_trade/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
