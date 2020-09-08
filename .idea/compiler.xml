@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zgy_trade" />
+        <module name="zgy_beans" />
+        <module name="zgy_auth" />
+        <module name="zgy_biz" />
+        <module name="zgy_dao" />
+        <module name="zgy_utils" />
+        <module name="zgy_search" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
